@@ -21,7 +21,7 @@ export const Navbar = () => {
           <li key={index}>
             <a 
               href={item.href}
-              className="hover:text-red-200" 
+              className="hover:text-green-400" 
             >
               {item.label}
             </a>
